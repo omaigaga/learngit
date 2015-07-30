@@ -1,0 +1,2 @@
+This is a LICENSE txt.
+welcome to the new LICENSE.
